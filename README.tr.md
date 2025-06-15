@@ -2,6 +2,8 @@
 
 [🇬🇧 İngilizce README.md için tıklayın](./README.md)
 
+*Oluşturulma Tarihi : 19 Şubat 2025*
+
 * Bu proje, Patika Frontend Bootcamp'i için oluşturulan **Hafta-3 / Ödev-2 / Instagram Clone** projesidir.
 * **HTML**, **CSS** ve **Bootstrap 4** kullanılarak geliştirilmiştir.
 * Patika tarafından verilen Instagram Clone 
@@ -15,7 +17,7 @@ yaptım.
 
 ## 🌐 Canlı Demo
 
-> (Canlı demo linki eklenebilir)
+Canlı web sitesini ziyaret edin: [Instagram Clone - Bootstrap](https://instagram-clone-bootstrap-three.vercel.app/)
 
 ---
 

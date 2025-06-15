@@ -2,6 +2,8 @@
 
 [🇹🇷 Click for Turkish README.md](./README.tr.md)
 
+*Created on : Feb 19, 2025*
+
 * This project was created as **Week-3 / Assignment-2 / Instagram Clone** for the Patika Frontend Bootcamp.
 * Developed using **HTML**, **CSS**, and **Bootstrap 4**.
 * The style and layout were implemented by following the steps in **tasks.txt** as provided by Patika.
@@ -12,7 +14,7 @@
 
 ## 🌐 Live Demo
 
-> (You can add a live demo link here)
+Visit the live website: [Instagram Clone - Bootstrap](https://instagram-clone-bootstrap-three.vercel.app/)
 
 ---
 
