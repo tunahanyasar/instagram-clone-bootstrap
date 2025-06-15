@@ -1,0 +1,120 @@
+body {
+  margin-top: 70px;
+  background-color: #ece8e860;
+}
+
+/* NAVBAR START */
+.navbar {
+  height: 54px;
+  background-color: white;
+}
+.logo {
+  margin-left: 192px;
+}
+.search-div {
+  margin-left: 100px !important;
+}
+::placeholder {
+  text-align: center;
+  font-size: 14px;
+  color: gray;
+  background-position: 0%;
+  background-size: 6%;
+  background-image: url("../assets/search-solid.svg");
+  background-repeat: no-repeat;
+}
+input.empty {
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: inherit;
+  background-color: #fafafa;
+}
+/* NAVBAR END */
+
+/* ====================================== */
+
+/* STORY START */
+.stories {
+  display: flex;
+  gap: 4px;
+  overflow-x: auto;
+  padding: 12px;
+  white-space: nowrap;
+}
+.stories a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+.storyphoto {
+  margin-left: 10px;
+  margin-right: 7px;
+  padding: 2px;
+  width: 60px;
+  height: 60px;
+  border: 2px solid rgb(238, 39, 82);
+  border-radius: 50%;
+  transition: transform 0.3s ease;
+}
+.storyphoto:hover {
+  transform: scale(1.1);
+}
+.storytext {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 12px;
+  color: black;
+  margin-top: 5px;
+  font-size: 12px;
+  font-weight: bold;
+  max-width: 70px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+/* STORY END */
+
+/* ====================================== */
+
+/* CONTAINER START */
+.middlearea {
+  max-height: 200px !important;
+}
+.post-bar {
+  border: none !important;
+}
+.card-header,
+.card-footer {
+  background-color: white;
+}
+.postuserfont {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 15px;
+  color: black;
+}
+/* CONTAINER END */
+
+/* ====================================== */
+
+/* SIDEBAR START */
+.rightpanellinks {
+  text-decoration: none;
+  color: lightgrey;
+}
+.rightpanellinks:hover {
+  text-decoration: none;
+  color: lightgrey;
+}
+#sticky-sidebar {
+  position: fixed;
+}
+.rightpanel {
+  border: none;
+  background-color: white;
+}
+.sidebar-follow {
+  float: right;
+}
+/* SIDEBAR END */
